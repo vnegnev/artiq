@@ -1,0 +1,12 @@
+{
+    "target": "kasli",
+    "variant": "satellite",
+    "hw_rev": "v1.1",
+    "base": "satellite",
+    "peripherals": [
+        {
+            "type": "grabber",
+            "ports": [0]
+        }
+    ]
+}
